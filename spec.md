@@ -1,4 +1,4 @@
-## R2 Compute Cluster
+## Boise State R2 Compute Cluster
 
 ### Specifications
 
