@@ -32,4 +32,4 @@
 
 #### File Systems
 - Head Nodes 600 G mirrored /cm/shared/apps 5Tb /home 38Tb /scratch 303T
-- Compute/GPU Nodes 600G /cm/shared/apps 5Tb /home 38Tb /scratch 303T 
+- Compute/GPU Nodes 600G /cm/shared/apps 5Tb /home 38Tb /scratch 303T
