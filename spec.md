@@ -5,7 +5,7 @@
 #### Operating System
 - CentOS 7
 
-#### Head Node(s) – High Availability Fail Over:
+#### Head Nodes – High Availability Fail Over:
 - MotherBoard: Dell PE R730/xd
 - CPU: Dual Intel Xeon E5-2623 4 core 2.6GHz
 - Memory: 64GB
