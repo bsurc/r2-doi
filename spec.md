@@ -29,7 +29,7 @@
 - InfiniBand: Mellanox ConnectX-3 VPI FDR, QSFP+ 40/56GbE
 
 #### Data Storage
-- Dell MD3460 12G SAS [60 TB] Raid-6 XFS
+- Dell MD3460 12G SAS [360 TB] Raid-6 XFS
 
 #### File Systems
 - Head Nodes 600 G mirrored /cm/shared/apps 5Tb /home 38Tb /scratch 303T
