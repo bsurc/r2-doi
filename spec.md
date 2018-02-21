@@ -1,4 +1,4 @@
-## R2 Compute Compute Cluster
+## R2 Compute Cluster
 
 ### Specifications
 
