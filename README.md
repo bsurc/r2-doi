@@ -1,13 +1,1 @@
-# r2-doi
-R2 Specifications for DOIs
-
-Most recent DOI: [![DOI](https://zenodo.org/badge/121805957.svg)](https://zenodo.org/badge/latestdoi/121805957)
-
-## Past DOIs
-<table>
- <tr><th>Valid Until</th><th>DOI</th></tr>
- <!-- PLACEHOLDER DO NOT REMOVE -->
- <tr><td>2018-02-07</td><td><a href="http://scholarworks.boisestate.edu/oit/2/">Scholarworks</td></tr>
-</table>
-
-
+IyByMi1kb2kKUjIgU3BlY2lmaWNhdGlvbnMgZm9yIERPSXMKCk1vc3QgcmVjZW50IERPSTogWyFbRE9JXShodHRwczovL3plbm9kby5vcmcvYmFkZ2UvMTIxODA1OTU3LnN2ZyldKGh0dHBzOi8vemVub2RvLm9yZy9iYWRnZS9sYXRlc3Rkb2kvMTIxODA1OTU3KQoKIyMgUGFzdCBET0lzCjx0YWJsZT4KIDx0cj48dGg+VmFsaWQgVW50aWw8L3RoPjx0aD5ET0k8L3RoPjwvdHI+CiA8dHI+PHRkPjIwMTgtMDItMjggMTY6MzY6MjAuMjQ3MjQ4MjIgLTA3MDAgTVNUIG09KzEuMjc3MDc3MTg0PC90ZD48dGQ+PGEgaHJlZj0iaHR0cHM6Ly9kb2kub3JnLzEwLjUyODEvemVub2RvLjExODI3ODMiPjxpbWcgc3JjPSJodHRwczovL3plbm9kby5vcmcvYmFkZ2UvZG9pLzEwLjUyODEvemVub2RvLjExODI3ODMuc3ZnIiBhbHQ9IkRPSSI+PC9hPjwvdGQ+PC90cj4KIDwhLS0gUExBQ0VIT0xERVIgRE8gTk9UIFJFTU9WRSAtLT4KIDx0cj48dGQ+MjAxOC0wMi0wNzwvdGQ+PHRkPjxhIGhyZWY9Imh0dHA6Ly9zY2hvbGFyd29ya3MuYm9pc2VzdGF0ZS5lZHUvb2l0LzIvIj5TY2hvbGFyd29ya3M8L3RkPjwvdHI+CjwvdGFibGU+CgoK
