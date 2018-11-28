@@ -12,7 +12,7 @@
 - EtherNet: Dual 10GigE, Dual GigE
 - InfiniBand: Mellanox ConnectX-3 VPI FDR, QSFP+ 40/56GbE
 
-#### CPU Nodes (25)
+#### CPU Nodes (31)
 - Mother Board: Dell PE R630
 - CPU: Dual intel Xeon E5-2680 v4 14 core 2.4 GHz
 - Memory: 192 GB
